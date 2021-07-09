@@ -1,6 +1,8 @@
 package lab1;
+
 import java.util.Scanner;
-public class Program6aoddoreven {
+
+public class Program10oddoreven {
 
 	public static void main(String[] args) {
 		int num;
